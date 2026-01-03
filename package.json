@@ -1,0 +1,26 @@
+{
+  "name": "first-electron-app",
+  "version": "0.1.0",
+  "description": "baby's first electron app",
+  "keywords": [
+    "tutorial"
+  ],
+  "homepage": "https://github.com/VivianVerdant/first-electron-app#readme",
+  "bugs": {
+    "url": "https://github.com/VivianVerdant/first-electron-app/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/VivianVerdant/first-electron-app.git"
+  },
+  "license": "ISC",
+  "author": "rook@trashbird.gay",
+  "type": "electron",
+  "main": "main.js",
+  "scripts": {
+    "test": "npm main.js"
+  },
+  "devDependencies": {
+    "electron": "^39.2.7"
+  }
+}
